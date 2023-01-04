@@ -4,7 +4,7 @@ oysho training mobil uygulamasanın kodlama örneği
 <table>
   <tr>
     <td>Kayıtlı kullanıcı</td>
-     <td>Kayıtsız kullanıcı A</td>
+     <td>Kayıtsız kullanıcı</td>
   </tr>
   <tr>
     
