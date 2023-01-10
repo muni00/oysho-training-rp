@@ -1,5 +1,5 @@
 # oysho-training-rp
-oysho training mobil uygulamasanın kodlama örneği
+oysho training mobil uygulamasanın anasayfasının sadece tasarım için kodlaması : 
 <br/>
 
     
